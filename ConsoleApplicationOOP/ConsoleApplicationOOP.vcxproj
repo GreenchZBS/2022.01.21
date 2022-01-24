@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Chisps.cpp" />
     <ClCompile Include="ConsoleApplicationOOP.cpp" />
     <ClCompile Include="Freezer.cpp" />
     <ClCompile Include="GoodBasic.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="WorkClass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Chipsi.h" />
     <ClInclude Include="Freezer.h" />
     <ClInclude Include="GoodBasic.h" />
     <ClInclude Include="Software.h" />
